@@ -1,3 +1,15 @@
 [submodule "HW5-Parser_RISC-V_Generation"]
 	path = HW5-Parser_RISC-V_Generation
 	url = git@github.com:lynchu/Compiler-Design-HW5-Parser_RISC-V_Generation.git
+[submodule "HW4-Parser_with_Semantic_Analyses"]
+	path = HW4-Parser_with_Semantic_Analyses
+	url = git@github.com:lynchu/Compiler-Design-HW4-Parser_with_Semantic_Analyses
+[submodule "HW3-Parser_with_AST"]
+	path = HW3-Parser_with_AST
+	url = git@github.com:lynchu/Compiler-Design-HW3-Parser_with_AST
+[submodule "HW2-Syntax_Analyzer"]
+	path = HW2-Syntax_Analyzer
+	url = git@github.com:lynchu/Compiler-Design-HW2-Syntax_Analyzer
+[submodule "HW1-Lexical_Analyzer"]
+	path = HW1-Lexical_Analyzer
+	url = git@github.com:lynchu/Compiler-Design-HW1-Lexical_Analyzer
